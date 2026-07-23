@@ -1,6 +1,6 @@
- # 🛒 Retail Sales Analysis Using SQL
+                                # Retail Sales Analysis Using SQL
 
-## 📊 Project Overview
+## Project Overview
 
 This project focuses on analyzing retail sales data using **MySQL** to uncover meaningful business insights. The dataset contains transactional sales records, including customer information, product categories, sales amounts, quantities purchased, and transaction dates.
 
@@ -8,7 +8,7 @@ The objective of this project was to perform data cleaning, explore the dataset,
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset includes the following information:
 
@@ -21,7 +21,7 @@ The dataset includes the following information:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The following data cleaning steps were performed before analysis:
 
@@ -32,7 +32,7 @@ The following data cleaning steps were performed before analysis:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Initial exploration included:
 
@@ -43,7 +43,7 @@ Initial exploration included:
 
 ---
 
-## 💼 Business Questions Answered
+## Business Questions Answered
 
 This project answers the following business questions:
 
@@ -60,7 +60,7 @@ This project answers the following business questions:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Clothing and Beauty categories showed strong customer engagement.
 - A small number of customers generated a significant portion of total sales.
@@ -69,7 +69,7 @@ This project answers the following business questions:
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Queries
 - Data Cleaning
@@ -84,7 +84,7 @@ This project answers the following business questions:
 
 ---
 
-## 💻 Tools & Technologies
+## Tools & Technologies
 
 - MySQL
 - SQL
@@ -92,20 +92,7 @@ This project answers the following business questions:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Retail Sales Analysis/
-│
-├── Retail_Sales_Analysis.sql
-├── README.md
-└── dataset/
-    └── retail_sales.csv
-```
-
----
-
-## 🚀 How to Use
+## How to Use
 
 1. Import the dataset into MySQL.
 2. Open the SQL script in MySQL Workbench.
@@ -115,7 +102,7 @@ Retail Sales Analysis/
 
 ---
 
-## 🎯 Project Outcome
+## Project Outcome
 
 This project demonstrates the practical application of SQL for data cleaning, exploratory data analysis, and business reporting. 
 It showcases the ability to transform raw transactional data into actionable business insights using industry-standard SQL techniques.
